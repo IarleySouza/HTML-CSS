@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+body {
+    background-color: rgb(32, 28, 28);
+
+}
+img {
+    margin: auto;
+    display: block;
+}
+.primeiro {
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+.primeiro a {
+    text-decoration: none;
+    color: white;
+
+}
+.primeiro a:hover {
+    text-decoration: underline;
+    background-color: rgb(39, 35, 35);
+}
+
